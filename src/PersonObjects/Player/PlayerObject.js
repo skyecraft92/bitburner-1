@@ -67,7 +67,7 @@ export function PlayerObject() {
     this.faction_rep_mult    = 1;
 
     //Money
-    this.money           = new Decimal(1000);
+    this.money           = new Decimal(10000);
 
     //IP Address of Starting (home) computer
     this.homeComputer = "";
