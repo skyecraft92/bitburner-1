@@ -88,7 +88,7 @@ export function prestigeAugmentation() {
     this.agility_exp = 0;
     this.charisma_exp = 0;
 
-    this.money = new Decimal(1000);
+    this.money = new Decimal(10000);
 
     this.city = CityName.Sector12;
     this.location = "";
